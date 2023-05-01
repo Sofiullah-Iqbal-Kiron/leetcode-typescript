@@ -12,4 +12,4 @@ function average(salary: number[]): number {
     avg = (total - max - min) / (salary.length - 2);
 
     return avg;
-};
+}
