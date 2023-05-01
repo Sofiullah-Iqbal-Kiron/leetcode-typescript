@@ -1,0 +1,1 @@
+var c: number = 1;
