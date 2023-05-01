@@ -1,3 +1,3 @@
 TypeScript official docs: https://www.typescriptlang.org/
 
-Is a superset of JavaScript(EcmaScript, renamed to attract Java programmers).
+Is a superset of JavaScript(EcmaScript, renamed to it to attract Java programmers).
