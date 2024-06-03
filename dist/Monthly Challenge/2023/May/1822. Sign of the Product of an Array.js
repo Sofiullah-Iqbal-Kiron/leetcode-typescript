@@ -1,4 +1,6 @@
 "use strict";
+// Accepted in first term.
+// Previous java solution was not optimized.
 function arraySign(nums) {
     let numOfNeg = 0;
     for (var n of nums) {
@@ -9,7 +11,6 @@ function arraySign(nums) {
     }
     return numOfNeg % 2 === 0 ? 1 : -1;
 }
-
 // Another amazing solution.
 function arraySign2(nums) {
     // Edge case.
