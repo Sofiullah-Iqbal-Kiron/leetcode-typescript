@@ -1,5 +1,4 @@
 "use strict";
-
 function appendCharacters(s, t) {
     let s_pointer = 0;
     let t_pointer = 0;
@@ -8,6 +7,5 @@ function appendCharacters(s, t) {
             t_pointer++;
         s_pointer++;
     }
-    
     return t.length - t_pointer;
 }
